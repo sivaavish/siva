@@ -19,6 +19,6 @@ $headers = 'From: ' . $_POST["name"] . '<' . $_POST["email"] . '>' . "\r\n" .
   mail( "info@touchcodes.in", $_POST['subject'], $_POST['message'], $headers );
  
   //      ^
-  //  Replace with your email 
+  //  Replace with your email ghghghhh
 }
 ?>
